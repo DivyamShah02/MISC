@@ -1,0 +1,7 @@
+pyautogui
+pyperclip
+configparser
+pandas
+requests
+pywinauto
+psutil
